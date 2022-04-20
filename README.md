@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pedro Lucas
+- 👀 I’m interested in ... be a programmer
+- 🌱 I’m currently learning ... JS/CSS/HTML
+- 📫 How to reach me ... Just Follow me in my LinkedIn https://www.linkedin.com/in/pedro-lucas-841081227/
