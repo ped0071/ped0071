@@ -1,7 +1,7 @@
 <div>
 	<a href="https://beacons.ai/ped0071">
-	<img weidth="48%" src="https://github-readme-stats.vercel.app/api?username=ped0071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img weidth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped0071&layout=compact&langs_count=16&theme=dark"/>
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ped0071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped0071&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display:inline_block"><br>
@@ -19,6 +19,6 @@
 	<a href="mailto:pedrolucasbastos071@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/pedro-lucas-841081227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/ped0071/ped0071/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ped0071/ped0071/blob/output/github-contribution-grid-snake.svg)
 	
 </div>
