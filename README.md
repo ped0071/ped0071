@@ -1,7 +1,7 @@
 <div>
 	<a href="https://beacons.ai/ped0071">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ped0071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped0071&layout=compact&langs_count=16&theme=dark"/>
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped0071&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display:inline_block"><br>
